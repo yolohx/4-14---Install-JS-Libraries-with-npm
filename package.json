@@ -1,0 +1,7 @@
+{
+  "name": "teamable",
+  "version": "1.0.0",
+  "dependencies": {
+    "Datepicker.js": "^0.1.1"
+  }
+}
